@@ -24,7 +24,7 @@ const Navbar = () => {
       height="60px"
       backgroundColor="rgba(255,255,255,0.95)"
       color="black"
-      position="fixex"
+      position="fixed"
       top="0"
       left="0"
       zIndex="1"
